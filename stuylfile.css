@@ -1,0 +1,26 @@
+h1{
+    background-color: slateblue;
+    text-transform: uppercase;
+}
+
+h2{
+    background-color: silver;
+    text-transform: lowercase;
+}
+
+h3{
+    background-color:lavender;
+    text-transform: uppercase;
+}
+
+ul{
+    visibility: hidden;
+    border: 10px;
+    border-color: goldenrod
+}
+
+
+p{
+    word-wrap: break-word:
+}
+

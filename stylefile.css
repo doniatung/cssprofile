@@ -1,0 +1,30 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-stretch: expanded;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-stretch: expanded;
+}
+
+h3{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-stretch: expanded;
+}
+
+li{
+    counter-reset: 5
+}
+
+p{
+    text-align: center;
+}
+
+
