@@ -2,7 +2,7 @@ h1{
     background-color: black;
     color: white;
     text-align: center;
-    font-stretch: expanded;
+    direction: rtl;
 }
 
 h2{
@@ -10,6 +10,12 @@ h2{
     color: white;
     text-align: center;
     font-stretch: expanded;
+    font-width: bold;
+}
+
+a{
+    border: 2px solid lightsteelblue;
+    color: hotpink
 }
 
 h3{
@@ -19,9 +25,6 @@ h3{
     font-stretch: expanded;
 }
 
-li{
-    counter-reset: 5
-}
 
 p{
     text-align: center;

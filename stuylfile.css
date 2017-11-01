@@ -1,3 +1,4 @@
+
 h1{
     background-color: slateblue;
     text-transform: uppercase;
@@ -15,12 +16,12 @@ h3{
 
 ul{
     visibility: hidden;
-    border: 10px;
-    border-color: goldenrod
 }
 
 
 p{
-    word-wrap: break-word:
+    word-wrap: break-word;
+    border: 5px solid;
+    border-color: goldenrod;
 }
 
