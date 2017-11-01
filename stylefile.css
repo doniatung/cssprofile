@@ -14,8 +14,8 @@ h2{
 }
 
 a{
-    border: 2px solid lightsteelblue;
-    color: hotpink
+    border: 2px solid royalblue;
+    color: red;
 }
 
 h3{
@@ -25,9 +25,43 @@ h3{
     font-stretch: expanded;
 }
 
+ul{
+    list-style-position: inside;
+}
 
 p{
     text-align: center;
+}
+
+div{
+    text-justify: kadisha;
+}
+
+.extreme{
+    background-color: black;
+    color: white;
+    border: 5px solid red; 
+}
+
+
+#head1{
+    font-family: "Comic Sans MS";
+}
+
+.navzone{
+    border: 2px dashed royalblue;
+}
+
+#tehlulz{
+    text-transform: uppercase;
+}
+
+.content{
+    font-style: italic;
+}
+
+.prose{
+    cursor: text;
 }
 
 

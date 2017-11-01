@@ -1,12 +1,11 @@
-
 h1{
     background-color: slateblue;
     text-transform: uppercase;
+    color: lightpink;
 }
 
 h2{
     background-color: silver;
-    text-transform: lowercase;
 }
 
 h3{
@@ -15,13 +14,42 @@ h3{
 }
 
 ul{
-    visibility: hidden;
+    list-style-position: inside;
+    border: 4px;
+    border-style: dotted solid double dashed;
+    
 }
-
 
 p{
     word-wrap: break-word;
-    border: 5px solid;
-    border-color: goldenrod;
+
 }
 
+div{
+    background-color: lightgoldenrodyellow
+}
+
+.navzone{
+    line-height:75%
+}
+
+.extreme{
+    text-align: center;
+}
+
+
+#head1{
+    text-shadow: 4px 4px #000000;
+}
+
+#tehlulz{
+    visibility: hidden;
+}
+
+.content{
+    text-transform: lowercase;
+}
+
+.prose{
+    text-align: right;
+}
