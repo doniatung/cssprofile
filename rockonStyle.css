@@ -1,0 +1,50 @@
+h1{
+    background-color: gold;
+    text-transform: uppercase;
+    color: brown;
+
+}
+
+h2{
+    background-color: gold;
+    color: brown;
+}
+
+h3{
+    background-color: brown;
+    text-transform: capitalize;
+    color: gold;
+}
+
+ul{
+    list-style-position: inside;
+    border: 4px;
+    border-style: dotted solid double dashed;
+    
+}
+
+a{
+    color: white;
+}
+
+div{
+    background-color: indianred;
+}
+
+.musica{
+    line-height:75%;
+		    
+}
+
+#head1{
+    text-shadow: 3px 3px #000000;
+}
+
+.important{
+    text-transform: lowercase;
+}
+
+.lyrics{
+    text-align: center;
+    white-space: pre;
+}
